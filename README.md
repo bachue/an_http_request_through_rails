@@ -7,6 +7,6 @@
 
 不过后来我又改用Sublime Text上的MarkdownEditing插件编写了，因为感觉Github没有良好的自动保存功能，加上编辑框太小，全屏后高亮完全失去等诸多缺陷。不过MarkdownEditing也并非完美，高亮功能不够理想，WordWrap功能对中文没有支持，Vim Mode下不得不频繁来回切换中英文模式，希望以后改进。
 
-另外这篇笔记绝对不会逐字逐句解析代码细节或解释机制，因此需要读者对Ruby语法和Rails机制有着非常深入的理解。
+另外这篇笔记绝对不会逐字逐句解析代码细节或解释机制，因此需要读者对Ruby语法和Rails机制有着非常深入的理解。另外部分内容可能涉及到Rails的启动机制，对此大家学习<http://railscasts-china.com/episodes/the-rails-initialization-process-by-kenshin54>的视频就已经足够了。
 
 Bachue Zhou
