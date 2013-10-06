@@ -11,4 +11,6 @@
 
 另外这篇笔记绝对不会逐字逐句解析代码细节或解释机制，因此需要读者对Ruby语法和Rails机制有着非常深入的理解。另外部分内容可能涉及到Rails的启动机制，对此大家学习<http://railscasts-china.com/episodes/the-rails-initialization-process-by-kenshin54>的视频就已经足够了。
 
+另外，请恕我不是文科出生，难以用华丽的辞藻和幽默风趣的对话吸引读者。读者必须怀着极大的热情和精力才有可能读完并理解本文，否则本文将具有强烈的催眠作用。
+
 Bachue Zhou
